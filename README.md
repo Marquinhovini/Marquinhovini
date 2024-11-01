@@ -4,7 +4,7 @@ Me chamo Marcus Vinicius, e esse é o meu perfil!
 
 **Estudante de Ciências da Computação, 22 anos.**
 
-Sou apaixonado por tecnologia e tenho interesse em desenvolvimento web e automação. Alguns dos meus projetos incluem um **robô do diário oficial** e um sistema de **agendamento para a prefeitura**, que desenvolvi utilizando Python, HTML, CSS, JavaScript e TypeScript.
+Sou apaixonado por tecnologia e tenho interesse em desenvolvimento web e automação. Alguns dos meus projetos incluem um **robô do diário oficial** e um sistema de **agendamento para a prefeitura**, que desenvolvi utilizando Python, HTML, CSS, Banco de Dados, JavaScript e TypeScript.
 
 ## 🌱 Tecnologias que utilizo e estou aprendendo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,6 +19,8 @@ Sou apaixonado por tecnologia e tenho interesse em desenvolvimento web e automa�
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marquinhovinii/)
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marquinho.bragas@hotmail.com)
 
 
 ## ⚡ Curiosidade sobre mim
